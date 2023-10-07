@@ -1,0 +1,12 @@
+/* Footer.css */
+.link-style {
+    text-decoration: none; 
+    color: black !important; 
+  }
+  
+  .black-link {
+    text-decoration: underline; 
+    color: black; 
+    margin-right: 10px; 
+  }
+  
